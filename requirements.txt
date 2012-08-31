@@ -1,1 +1,2 @@
+dj-database-url
 sentry==4.10.0
